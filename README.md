@@ -30,6 +30,6 @@ szkolenie.ipynb
 ```
 <img width="1336" height="301" alt="image" src="https://github.com/user-attachments/assets/2fc7c9fa-416d-4ffa-ab22-7d31d2a22311" />
 <br><br>
-3. Kliknij **Launch** i poczekaj, aż środowisko się uruchomi (może to potrwać kilka minut).
+3. Kliknij <strong>Launch</strong> i poczekaj, aż środowisko się uruchomi (może to potrwać kilka minut).
 
 
